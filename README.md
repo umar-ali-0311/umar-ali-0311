@@ -10,7 +10,7 @@
 - 📫 How to reach me **umarali031158@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SVZ7ZXySYnKgyz-F2FwLbtRgPikNvFqo/view?usp=sharing](https://drive.google.com/file/d/1SVZ7ZXySYnKgyz-F2FwLbtRgPikNvFqo/view?usp=sharing)
-
+<a href="https://app.daily.dev/muhammadumar76"><img src="https://api.daily.dev/devcards/v2/oWCDGdICwQ5ciEUsCBzRE.png?type=default&r=t1k" width="356" alt="Muhammad Umar's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@umar-ali-104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@umar-ali-104" height="30" width="40" /></a>
