@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umar-ali-0311&show_icons=true&locale=en" alt="umar-ali-0311" /></p><br><br>
 <a href="https://app.daily.dev/muhammadumar76"><img src="https://api.daily.dev/devcards/v2/oWCDGdICwQ5ciEUsCBzRE.png?type=wide&r=l61" width="652" alt="Muhammad Umar's Dev Card"/></a>
-<a href="https://app.daily.dev/muhammadumar76"><img src="https://api.daily.dev/devcards/v2/oWCDGdICwQ5ciEUsCBzRE.png?type=default&r=t1k" width="356" alt="Muhammad Umar's Dev Card"/></a>
